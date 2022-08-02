@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>924916698874-20g02k74vu0hriv829kh36t150rav0ah.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.924916698874-20g02k74vu0hriv829kh36t150rav0ah</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-lE4jWR9TyaR4hwz-z9fqJ9u7Wufmzrc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>924916698874</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokedexKowok</string>
+	<key>PROJECT_ID</key>
+	<string>pokedex-kowok</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokedex-kowok.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:924916698874:ios:b232cbf99a49e4f6724343</string>
+</dict>
+</plist>
