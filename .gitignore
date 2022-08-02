@@ -11,7 +11,6 @@ firebase-debug.*.log*
 .firebase/
 
 # Firebase config
-.public/
 
 # Flutter/Dart/Pub related
 **/doc/api/
