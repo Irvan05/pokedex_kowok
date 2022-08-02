@@ -71,3 +71,5 @@ class OutlineTitle extends StatelessWidget {
     ]);
   }
 }
+
+// run on web flutter run -d Chrome --release
